@@ -57,5 +57,4 @@ To analyze OLA's ride data and build interactive dashboards that help decision-m
 
 ---
 
-## 📂 Project Structure
 
